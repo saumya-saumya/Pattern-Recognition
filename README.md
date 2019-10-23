@@ -58,4 +58,3 @@ model (or "classifier") on a set of test data for which the true values are know
  Sensitivity = TP / (FN + TP)<br>
  Classifier Specificity: When actual value is negative, how often is the prediction correct?<br>
  Specificity = TN / (TN/FP)<br>
- What is your interpretation of these values?<br>
