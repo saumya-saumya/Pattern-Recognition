@@ -1,17 +1,4 @@
-@relation wine-weka.filters.unsupervised.instance.Resample-S0-Z30.0-no-replacement
-@attribute fixedacid numeric
-@attribute volacid numeric
-@attribute citricacid numeric
-@attribute residualsugar numeric
-@attribute chlorides numeric
-@attribute freesulfur numeric
-@attribute totalsulfur numeric
-@attribute density numeric
-@attribute pH numeric
-@attribute sulphates numeric
-@attribute alcohol numeric
-@attribute quality numeric (0-10)
-@data
+﻿ fixed acidity,volatile acidity, citric acid, residual sugar,chlorides, free sulfur dioxide,total sulfur dioxide,density,pH, sulphates,alcohol,Quality
 7,0.27,0.36,20.7,0.045,45,170,1.001,3,0.45,8.8,6
 7.2,0.23,0.32,8.5,0.058,47,186,0.9956,3.19,0.4,9.9,6
 7.2,0.23,0.32,8.5,0.058,47,186,0.9956,3.19,0.4,9.9,6
@@ -1922,7 +1909,7 @@
 5.9,0.14,0.25,4.5,0.027,34,140,0.9934,3.49,0.51,10.8,6
 6.2,0.17,0.28,4.7,0.037,39,133,0.9931,3.41,0.46,10.8,7
 5.6,0.35,0.14,5,0.046,48,198,0.9937,3.3,0.71,10.3,5
-0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,
 5.8,0.335,0.14,5.8,0.046,49,197,0.9937,3.3,0.71,10.3,5
 5.6,0.235,0.29,1.2,0.047,33,127,0.991,3.34,0.5,11,7
 6.4,0.24,0.28,11.5,0.05,34,163,0.9969,3.31,0.45,9.5,5
